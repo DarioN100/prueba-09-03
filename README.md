@@ -1,4 +1,5 @@
-Análisis de Datos de Ventas Minoristas Online
+# ***Análisis de Datos de Ventas Minoristas Online***
+
 Este repositorio contiene un análisis de datos de un dataset de ventas minoristas en línea, realizado como parte de mi portafolio de ciencia de datos. El proyecto utiliza herramientas como Pandas, NumPy y Matplotlib para explorar, limpiar y visualizar datos con el fin de extraer insights relevantes sobre el comportamiento de compra, tendencias de ventas y métricas clave del e-commerce.
 
 📊 Características del Proyecto
